@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "name": "Alexis Fuentes",
+        "email": "alexis@email.com"
+    },
+    {
+        "id": 2,
+        "name": "Jesica",
+        "email": "jesica@mail.com"
+    },
+    {
+        "id": 3,
+        "name": "Memin",
+        "email": "memin@mail.com"
+    },
+    {
+        "id": 4,
+        "name": "Juan Navarrete",
+        "email": "juanito@email.com"
+    },
+    {},
+    {
+        "id": 5,
+        "name": "Pancho Villa",
+        "email": "panchito@email.com"
+    }
+]
